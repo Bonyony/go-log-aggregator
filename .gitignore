@@ -1,0 +1,14 @@
+# Binaries
+bin/
+*.exe
+*.test
+
+# Logs
+*.log
+
+# Credentials (CRITICAL)
+*.json
+.env
+
+# OS files
+.DS_Store
