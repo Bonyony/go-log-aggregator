@@ -1,3 +1,5 @@
 module go-log-aggregator
 
-go 1.22.9
+go 1.24.0
+
+toolchain go1.24.11
